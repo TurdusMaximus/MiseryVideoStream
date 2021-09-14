@@ -6,8 +6,8 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 from pytgcalls import GroupCallFactory
 from config import API_ID, API_HASH, SESSION_NAME, BOT_USERNAME
-from helpers.decorators import authorized_users_only
-from helpers.filters import command
+from Plugin & Helpers.decorators import authorized_users_only
+from Plugin & Helpers.filters import command
 
 
 STREAM = {8}
