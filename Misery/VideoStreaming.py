@@ -142,3 +142,4 @@ async def stop(_, m: Message):
             pass
     except Exception as e:
         await m.reply_text(f"❌ sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ ᴡʀᴏɴɢ! \n\n•ᴇʀʀᴏʀ: `{e}`")
+        # Edited By TurdusMaximus
