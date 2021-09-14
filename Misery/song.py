@@ -50,7 +50,7 @@ def song(client, message):
         results[0]["views"]
 
     except Exception as e:
-        m.edit("❌ ᴍɪsᴇʀʏ ᴄᴀɴɴᴏᴛ ғɪɴᴅ ʏᴏᴜʀ sᴏɴɢ.\n\nᴘʟᴇᴀsᴇ ɢɪᴠᴇ ᴀ ᴠᴀʟɪᴅ sᴏɴɢ ɴᴀᴍᴇ.")
+        m.edit("❌  ᴄᴀɴɴᴏᴛ ғɪɴᴅ ʏᴏᴜʀ sᴏɴɢ.\n\nᴘʟᴇᴀsᴇ ɢɪᴠᴇ ᴀ ᴠᴀʟɪᴅ sᴏɴɢ ɴᴀᴍᴇ.")
         print(str(e))
         return
     m.edit("📥 ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ...")
@@ -307,3 +307,4 @@ async def vsong(_, message: Message):
     except Exception as e:
         print(e)
         pass
+# Edited By TurdusMaximus
