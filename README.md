@@ -26,8 +26,8 @@
 - 2.) ɢɪᴠᴇ ʏᴏᴜʀ ʙᴏᴛ ᴀʟʟ ʀɪɢʜᴛs ᴇxᴇᴄᴘᴛ ᴀɴᴏɴʏᴍᴏᴜs ᴀᴅᴍɪɴ.
 - 3.) ɴᴏᴡ ᴀᴅᴅ ʏᴏᴜʀ ᴘʟᴀʏᴇʀ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ ᴛʜᴇɴ ᴍᴀᴋᴇ ɪᴛ ᴀᴅᴍɪɴ.
 - 4.) ᴛᴜʀɴ ᴏɴ ᴛʜᴇ ᴠᴄ ʙᴇғᴏʀᴇ sᴛʀᴇᴀᴍɪɴɢ.
-- 5.) ᴛʏᴘᴇ / (ʀᴇᴘʟʏɪɴɢ ᴛᴏ ᴀ ᴠɪᴅᴇᴏ) ᴏʀ / (ᴘᴜᴛ ʏᴛ ᴜʀʟ ʜᴇʀᴇ).
-- 6.) ᴛʏᴘᴇ / ᴛᴏ ᴇɴᴅ ᴛʜᴇ sᴛʀᴇᴀᴍɪɴɢ.
+- 5.) ᴛʏᴘᴇ /Vplay (ʀᴇᴘʟʏɪɴɢ ᴛᴏ ᴀ ᴠɪᴅᴇᴏ) ᴏʀ /Vplay (ᴘᴜᴛ ʏᴛ ᴜʀʟ ʜᴇʀᴇ).
+- 6.) ᴛʏᴘᴇ /Stop ᴛᴏ ᴇɴᴅ ᴛʜᴇ sᴛʀᴇᴀᴍɪɴɢ.
 - ••ᴡᴇʟʟ ɴᴏᴡ ᴀʟʟ sᴇᴛᴜᴘ ɪs ᴅᴏɴᴇ , ɪᴛ's ᴀᴡᴇsᴏᴍᴇ ғᴏʀ ᴏɴᴇ ᴄʜᴀᴛ ɢʀᴘ ᴏɴʟʏ , ᴅᴏɴ'ᴛ ᴀᴅᴅ ᴛᴏ ᴍᴀɴʏ ᴄʜᴀᴛs••
 
 
@@ -55,7 +55,7 @@
 
 - [ᴍᴀʀsʜᴀʟ](https://github.com/MarshalX) ғᴏʀ [ᴘʏᴛɢᴄᴀʟʟs](https://github.com/MarshalX/tgcalls)
 - [ᴅᴀɴ](https://github.com/delivrance) ғᴏʀ [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)
-### • ᴅᴇᴠ
+### • ᴅᴇᴠᴇʟᴏᴘᴇʀ
 
 <a href="https://t.me/XEBORN"><img src="https://img.shields.io/badge/TURDUS MAXIMUS -2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 ## •ʀᴇᴘᴏ ɪɴғᴏ
