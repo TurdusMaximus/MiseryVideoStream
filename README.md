@@ -58,7 +58,7 @@
 
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="Made Via Python"></a>
 
-<img src="https://img.shields.io/github/license/VegetaxD/VideoStreamBot?style=for-the-badge" alt="LICENSE">
+<img src="https://img.shields.io/github/license/TurdusMaximus/MiseryVideoStream?style=for-the-badge" alt="LICENSE">
 
 <img src="https://img.shields.io/github/forks/TurdusMaximus/MiseryVideoStream?style=for-the-badge" alt="FORKS">
 
