@@ -1,0 +1,60 @@
+{
+    "name": "ᴍɪsᴇʀʏ ᴠɪᴅᴇᴏ sᴛʀᴇᴀᴍᴇʀ",
+    "description": " ᴀ ᴛɢ ʙᴏᴛ ғᴏʀ ᴠɪᴅᴇᴏ sᴛʀᴇᴀᴍɪɴɢ ʙᴀsᴇᴅ ᴏɴ ᴘʏʀᴏ ᴀɴᴅ ᴛɢᴄᴀʟʟs! ᴘʀᴏᴊᴇᴄᴛ ʙʏ @TurdusMaximus",
+    "logo": "https://telegra.ph/file/657969315fbe1a90fbb84.jpg",
+    "keywords": [
+        "pytgcalls",
+        "telegram bot",
+        "video stream"
+    ],
+    "website": "https://t.me/XeBorn",
+    "repository": "https://github.com/TurdusMaximus/MiseryVideoStream",
+    "success_url": "https://t.me/TurdusMaximus",
+    "env": {
+        "API_ID": {
+            "description": "ɢᴇᴛ ʏᴏᴜʀ ᴀᴘɪ_ɪᴅ ғʀᴏᴍ my.telegram.org ",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "ɢᴇᴛ ʏᴏᴜʀ ᴀᴘɪ_ʜᴀsʜ ғʀᴏᴍ my.telegram.org",
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "ғɪʟʟ ʏᴏᴜʀ ʙᴏᴛ ᴛᴏᴋᴇɴ ғʀᴏᴍ @botfather",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "ʏᴏᴜʀ ʙᴏᴛ ᴜsᴇʀɴᴀᴍᴇ. ɢᴇᴛ ɪᴛ ғʀᴏᴍ @botfather",
+            "required": true
+        },
+        "ASSISTANT_NAME": {
+            "description": "ᴘᴜᴛ ᴛʜᴇ ᴀssɪsᴛᴀɴᴛ ᴜsᴇʀɴᴀᴍᴇ ʜᴇʀᴇ ᴡɪᴛʜᴏᴜᴛ @",
+            "required": true
+        },
+        "SESSION_NAME": {
+            "description": "ғɪʟʟ ʏᴏᴜʀ ᴘʏʀᴏ sᴛʀɪɴɢ sᴇssɪᴏɴ",
+            "required": true
+        },
+        "SUDO_USERS": {
+            "description": "ᴜsᴇʀs ᴡʜᴏ ᴡɪʟʟ ʙᴇ ᴄᴏᴜɴᴛᴇᴅ ᴀs ᴀᴅᴍɪɴ ᴇᴠᴇʀʏᴡʜᴇʀᴇ | sᴇᴘᴀʀᴀᴛᴇ ʙʏ sᴘᴀᴄᴇ",
+            "required": true
+        },
+        "DURATION_LIMIT": {
+            "description": "ᴍᴀxɪᴍᴜs ᴅᴜʀᴀᴛɪᴏɴ ᴏғ ᴠɪᴅᴇᴏs (ᴍɪɴᴜᴛᴇs)",
+            "required": true
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "stack": "heroku-20"
+}
