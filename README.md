@@ -53,8 +53,11 @@
 <a href="https://t.me/MISERYSUPPORT"><img src="https://img.shields.io/badge/OFFICIAL | SUPPORT -2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 ### •ᴄʀᴇᴅɪᴛs 
 
-- [ᴍᴀʀsʜᴀʟ](https://github.com/MarshalX) for [ᴘʏᴛɢᴄᴀʟʟs](https://github.com/MarshalX/tgcalls)
-- [ᴅᴀɴ](https://github.com/delivrance) for [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)
+- [ᴍᴀʀsʜᴀʟ](https://github.com/MarshalX) ғᴏʀ [ᴘʏᴛɢᴄᴀʟʟs](https://github.com/MarshalX/tgcalls)
+- [ᴅᴀɴ](https://github.com/delivrance) ғᴏʀ [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)
+### • ᴅᴇᴠ
+
+<a href="https://t.me/XEBORN"><img src="https://img.shields.io/badge/TURDUS MAXIMUS -2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 ## •ʀᴇᴘᴏ ɪɴғᴏ
 
 <p align="center">
