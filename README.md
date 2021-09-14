@@ -41,7 +41,7 @@
 - pip3 install --upgrade pip
 - pip3 install -U -r requirements.txt
 - sudo nano config.py #Fill it with your variables value.
-- python3 -m bot
+- python3 -m Misery
 ```
 ###  • ɢᴇᴛ ʏᴏᴜʀ sᴛʀɪɴɢ sᴇssɪᴏɴ
 
