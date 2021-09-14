@@ -3,7 +3,7 @@ from config import API_ID, API_HASH, BOT_TOKEN
 from Misery.VideoStreaming import app
 
 
-bot = Client(
+Misery = Client(
     ":memory:",
     API_ID,
     API_HASH,
@@ -11,7 +11,7 @@ bot = Client(
     plugins=dict(root="bot"),
 )
 
-bot.start()
+Misery.start()
 print("[INFO]: STARTING BOT CLIENT")
 app.start()
 print("[INFO]: STARTING USERBOT CLIENT")
