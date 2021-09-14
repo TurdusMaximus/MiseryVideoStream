@@ -2,8 +2,6 @@
 <img src="https://telegra.ph/file/657969315fbe1a90fbb84.jpg" alt="「•ᴍɪsᴇʀʏ•」" width="510" height="500">
 
 
-
-
 > ᴀ ғɪɴᴇ & ғɪʀsᴛ ᴄʟᴀss ᴘʀᴏᴊᴇᴄᴛ ғᴏʀ ᴘʟᴀʏɪɴɢ ᴠɪᴅᴇᴏs ɪɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ʙʏ [xᴇʙᴏʀɴ](https://github.com/TURDUSMAXIMUS) | •ᴘᴏᴡᴇʀᴇᴅ ʙʏ [ᴛɢᴄᴀʟʟs](https://github.com/MarshalX/tgcalls) and [ᴘʏʀᴏ](https://github.com/pyrogram/pyrogram)
 
 
@@ -54,7 +52,18 @@
 
 - [ᴍᴀʀsʜᴀʟ](https://github.com/MarshalX) for [ᴘʏᴛɢᴄᴀʟʟs](https://github.com/MarshalX/tgcalls)
 - [ᴅᴀɴ](https://github.com/delivrance) for [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)
+## •ʀᴇᴘᴏ ɪɴғᴏ
 
-
+<p align="center">
 
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="Made Via Python"></a>
+
+<img src="https://img.shields.io/github/license/VegetaxD/VideoStreamBot?style=for-the-badge" alt="LICENSE">
+
+<img src="https://img.shields.io/github/forks/TurdusMaximus/MiseryVideoStream?style=for-the-badge" alt="FORKS">
+
+ <img src="https://img.shields.io/github/stars/TurdusMaximus/MiseryVideoStream?style=for-the-badge" alt="STARS">
+  <img src="https://img.shields.io/github/repo-size/TurdusMaximus/MiseryVideoStream?style=for-the-badge" alt="Repository Size"> 
+
+</p>
+
