@@ -15,7 +15,7 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 async def ytsearch(_, message: Message):
     try:
         if len(message.command) < 2:
-            await message.reply_text("/Search ɴᴇᴇᴅs ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ ᴏᴘᴇʀᴀᴛᴇ ʙʏ ᴍɪsᴇʀʏ!")
+            await message.reply_text("/Search ɴᴇᴇᴅs ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ ᴏᴘᴇʀᴀᴛᴇ!")
             return
         query = message.text.split(None, 1)[1]
         m = await message.reply_text("🔎 **sᴇᴀʀᴄʜɪɴɢ..**")
