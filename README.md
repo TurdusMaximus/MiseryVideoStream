@@ -45,9 +45,12 @@
 - sudo nano config.py #Fill it with your variables value.
 - python3 -m bot
 ```
- 
+ ### •ғᴏʀ ɪɴғᴏ ᴏғ ᴄᴏᴍᴍᴀɴᴅs 
+ <a href="https://t.me/MiseryStreamBot"><img src="https://img.shields.io/badge/ MISERY-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-
+### • ғᴏʀ ᴜᴘᴅᴀᴛᴇs ᴀɴᴅ ʜᴇʟᴘ
+<a href="https://t.me/MISERYOFFICIAL"><img src="https://img.shields.io/badge/OFFICIAL | UPDATES -2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/MISERYSUPPORT"><img src="https://img.shields.io/badge/OFFICIAL | SUPPORT -2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 ### •ᴄʀᴇᴅɪᴛs 
 
 - [ᴍᴀʀsʜᴀʟ](https://github.com/MarshalX) for [ᴘʏᴛɢᴄᴀʟʟs](https://github.com/MarshalX/tgcalls)
