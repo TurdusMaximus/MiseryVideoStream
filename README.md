@@ -16,10 +16,8 @@
 
 
 ## •ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/dihanofficial/VideoPlayerBot&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_NAME,ASSISTANT_NAME,BOT_USERNAME,DURATION_LIMIT,SUDO_USERS)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/TurdusMaximus/MiseryVideoStream&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_NAME,ASSISTANT_NAME,BOT_USERNAME,DURATION_LIMIT,SUDO_USERS)
   
-
-
  ## **••sᴇᴛᴛɪɴɢ ᴜᴘ ʏᴏᴜʀ ᴍɪsᴇʀʏ••**
 
 - 1.) ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ.
@@ -37,7 +35,7 @@
 - sudo apt install python3-pip -y virtualenv
 - sudo apt install ffmpeg -y
 - git clone https://github.com/TurdusMaximus/MiseryVideoStream  #Clone your repo.
-- cd video-stream
+- cd misery-video-stream
 - virtualenv env #Create Virtual Environment.
 - source env/bin/activate #Activate Virtual Environment
 - pip3 install --upgrade pip
@@ -45,7 +43,11 @@
 - sudo nano config.py #Fill it with your variables value.
 - python3 -m bot
 ```
- ### •ғᴏʀ ɪɴғᴏ ᴏғ ᴄᴏᴍᴍᴀɴᴅs 
+###  • ɢᴇᴛ ʏᴏᴜʀ sᴛʀɪɴɢ sᴇssɪᴏɴ
+
+<p><a href="https://replit.com/@TurdusMaximus/MiseryStringSession#main.py"><img src="https://img.shields.io/badge/Generate%20On%20Repl-00B2FF?style=for-the-badge&logo=appveyor" width="180""/></a></p>
+
+ ### • ғᴏʀ ɪɴғᴏ ᴏғ ᴄᴏᴍᴍᴀɴᴅs 
  <a href="https://t.me/MiseryStreamBot"><img src="https://img.shields.io/badge/ MISERY-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 ### • ғᴏʀ ᴜᴘᴅᴀᴛᴇs ᴀɴᴅ ʜᴇʟᴘ
