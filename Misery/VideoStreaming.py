@@ -65,7 +65,7 @@ async def vstream(_, m: Message):
                 await msg.edit((f"🍓 **•sᴛᴀʀᴛᴇᴅ [ʏᴛ sᴛʀᴇᴀᴍ ʙʏ ᴍɪsᴇʀʏ]({ytstream}) !\n\n•ᴊᴏɪɴ ᴠᴄ ᴀɴᴅ ᴇɴᴊᴏʏ.**"), disable_web_page_preview=True)
                 await group_call.start_video(ytlink, repeat=False, enable_experimental_lip_sync=True)
 
-        vc_live = True
+       
                 try:
                     STREAM.remove(0)
                 except:
