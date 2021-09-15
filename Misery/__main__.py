@@ -12,7 +12,7 @@ Misery = Client(
 )
 
 Misery.start()
-print("[INFO]: STARTING BOT CLIENT")
+print("[Your Misery Is Ready To Stream✓")
 app.start()
-print("[INFO]: STARTING USERBOT CLIENT")
+print("Started Sucksexfully✓")
 idle()
