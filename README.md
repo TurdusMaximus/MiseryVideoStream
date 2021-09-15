@@ -1,5 +1,5 @@
 <h1> 「•ᴍɪsᴇʀʏ ᴠɪᴅᴇᴏ sᴛʀᴇᴀᴍᴇʀ•」</h1>
-<img src="https://telegra.ph/file/657969315fbe1a90fbb84.jpg" alt="「•ᴍɪsᴇʀʏ•」" width="510" height="500">
+<img src="https://telegra.ph/file/071cc29dc3918568d8731.png" alt="「•ᴍɪsᴇʀʏ•」" height="500" width="500" align="center">
 
 
 > ᴀ ғɪɴᴇ & ғɪʀsᴛ ᴄʟᴀss ᴘʀᴏᴊᴇᴄᴛ ғᴏʀ ᴘʟᴀʏɪɴɢ ᴠɪᴅᴇᴏs ɪɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ʙʏ [xᴇʙᴏʀɴ](https://github.com/TURDUSMAXIMUS) | •ᴘᴏᴡᴇʀᴇᴅ ʙʏ [ᴛɢᴄᴀʟʟs](https://github.com/MarshalX/tgcalls) and [ᴘʏʀᴏ](https://github.com/pyrogram/pyrogram)
