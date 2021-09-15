@@ -35,7 +35,7 @@
 - sudo apt install python3-pip -y virtualenv
 - sudo apt install ffmpeg -y
 - git clone https://github.com/TurdusMaximus/MiseryVideoStream  #Clone your repo.
-- cd misery-video-stream
+- cd MiseryVideoStream
 - virtualenv env #Create Virtual Environment.
 - source env/bin/activate #Activate Virtual Environment
 - pip3 install --upgrade pip
